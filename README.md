@@ -1,2 +1,2 @@
-# training-
-amath and elyas
+# training
+Training projects
